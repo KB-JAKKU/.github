@@ -6,7 +6,7 @@
 ### 반복이 필요한 우리 아이의 뱅킹 안내서  
 <img width="600" height="570" alt="Group 903" src="https://github.com/user-attachments/assets/dea85427-0531-4b2a-a5c9-09d4ac7975e8" />   
  
-'자꾸'는 이런 웹이에요? 뭔가이상  
+<!-- '자꾸'는 이런 웹이에요? 뭔가이상 -->
 
 1. 처음부터 끝까지, 안전하게 
 온라인 뱅킹을 실습해요
